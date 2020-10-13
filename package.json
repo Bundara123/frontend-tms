@@ -1,0 +1,10 @@
+{
+  "name": "frontend-tms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Bundara123/frontend-tms.git",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
